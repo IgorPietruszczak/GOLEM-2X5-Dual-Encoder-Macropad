@@ -1,0 +1,6 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"D1, D10, D11, D12, D2, D3, D4, D5, D6, D7, D8, D9",Diode_DO-35,12,D,
+"S1, S10, S2, S3, S4, S5, S6, S7, S8, S9",SW_Cherry_MX_1.00u_PCB,10,Keyswitch,
+SW1,SW_TH_Tactile_Omron_B3F-10xx,1,SW_DPST_x2,
+"SW2, SW3",RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm,2,RotaryEncoder_Switch,
+U1,Arduino_Pro_Micro,1,Arduino_Pro_Micro,
