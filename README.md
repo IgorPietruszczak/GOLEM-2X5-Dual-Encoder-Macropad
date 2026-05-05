@@ -7,7 +7,7 @@
 
 An open-source 2x5 macropad featuring **dual rotary encoders**, a custom PCB, and fully 3D-printed case.
 
-> 📸 *Add a photo of your finished build here!*
+<img width="6000" height="4000" alt="IMG_0709" src="https://github.com/user-attachments/assets/2e2ca8b4-4da9-4d84-8826-484afe1a793c" />
 
 ---
 
@@ -20,6 +20,8 @@ An open-source 2x5 macropad featuring **dual rotary encoders**, a custom PCB, an
 - **Custom KiCad PCB** — open-source design files included
 - **3D-printed case** — print-ready STL files included
 - **MIT licensed** — free to use, modify, and share
+
+<img width="6000" height="4000" alt="IMG_0710" src="https://github.com/user-attachments/assets/a715bd72-379e-48ac-9bd2-7b35c2f2d204" />
 
 ---
 
@@ -34,6 +36,8 @@ GOLEM-2X5-Dual-Encoder-Macropad/
 ├── LICENSE
 └── README.md
 ```
+
+<img width="6000" height="4000" alt="IMG_0711" src="https://github.com/user-attachments/assets/a1ceb0ce-5801-41b9-8b91-69e22ffb1be3" />
 
 ---
 
@@ -52,6 +56,8 @@ GOLEM-2X5-Dual-Encoder-Macropad/
 | 3D-printed case | 1 set | STL files in `3D Parts/` |
 | Silicone anti-slip pads | 4 | Placed in the corners on the bottom of the case |
 | Tact Switch | 1 | For easy enabling of boot mode |
+
+<img width="6000" height="4000" alt="IMG_0714" src="https://github.com/user-attachments/assets/714d90d5-c3a1-4334-b6c5-e241493763db" />
 
 ---
 
